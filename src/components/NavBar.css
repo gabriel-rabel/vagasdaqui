@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+.navBar {
+    min-width: 100vw;
+    min-height: 80px;
+    background-color: rgb(116, 116, 163);
+    color: white;
+}
+
+.navLinks {
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 20%;
+    margin-right: 20%;
+    gap: 20px;
+}
+.customLink {
+    color: white;
+}

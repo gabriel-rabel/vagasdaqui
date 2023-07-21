@@ -1,0 +1,25 @@
+.footer {
+    background-color: #f5f5f5;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    min-width: 100vw;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .company-name {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .creation-date {
+    color: #888;
+  }
+  
