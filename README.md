@@ -32,4 +32,4 @@ Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](
 
 ## Autor
 
-- [Gabriel Rabel] (https://github.com/gabriel-rabel)
+[Linkedin: Gabriel Rabel](https://www.linkedin.com/in/gabrielrabel/)
