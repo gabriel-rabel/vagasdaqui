@@ -1,4 +1,4 @@
-# VagasDaqui - Site de Empregos
+# VagasDaqui - Empregos
 
 ## Descrição
 
